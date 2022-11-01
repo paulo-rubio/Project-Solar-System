@@ -1,0 +1,10 @@
+.missionCard {
+  background-color: rgba(44, 44, 44, 0.3);
+  border-radius: 60px;
+  color: white;
+  text-align: center;
+}
+
+.missionCard:hover {
+  background-color: rgba(44, 48, 44, 0.8);
+}
