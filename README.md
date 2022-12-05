@@ -1,4 +1,5 @@
 # Solar System
+O projeto Solar System foi meu primeiro desenvolvimento utilizando React Native, onde o objetivo era pegar os dados de uma api que continha as viagens no nosso sistema solar
 
 # Projeto
 Projeto desenvolvido React; 
